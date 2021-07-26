@@ -3,7 +3,6 @@ import styles from './MealFrom.module.css'
 import Input from "../../UI/Input";
 
 const MealForm = (props) => {
-
     const [amountIsValid, setAmountIsValid] = useState(true)
     const amountInputRef = useRef()
 
@@ -14,8 +13,7 @@ const MealForm = (props) => {
 
         if (enteredAmount.trim().length === 0 ||
             enteredAmountNumber < 1 ||
-            enteredAmount > 5)
-        {
+            enteredAmount > 5) {
             setAmountIsValid(false)
             return;
         }
@@ -35,7 +33,7 @@ const MealForm = (props) => {
                     max: '5',
                     step: '1',
                     defaultValue: '1'
-                    }
+                }
                 }/>
             <button>+ Add</button>
             {!amountIsValid && <p>Please enter a valid amount (1-5).</p>}

@@ -4,4 +4,13 @@
 
 ## Технологии: React, React hooks, React context
 
+![](ForReadme/Screenshot_1.png)
+
+![](ForReadme/Screenshot_2.png)
+
+![](ForReadme/Screenshot_3.png)
+
+![](ForReadme/demonstation.mkv)
+
+
 
