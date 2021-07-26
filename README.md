@@ -10,7 +10,6 @@
 
 ![](ForReadme/Screenshot_3.png)
 
-![](ForReadme/demonstation.mkv)
 
 
 
