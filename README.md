@@ -9,11 +9,11 @@
 2) Делать модельные окна и использовать их с помощью React portals
 3) Использовать React context для контроля за состоянием приложения
 
-![](ForReadme/Screenshot_1.png)
+![](src/ForReadme/Screenshot_1.png)
 
-![](ForReadme/Screenshot_2.png)
+![](src/ForReadme/Screenshot_2.png)
 
-![](ForReadme/Screenshot_3.png)
+![](src/ForReadme/Screenshot_3.png)
 
 
 
